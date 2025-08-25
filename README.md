@@ -1,1 +1,16 @@
-# FirstProject
+protocol: DMT-Vault
+version: 9.0
+deploy:
+  mode: gasless
+  chain: omni
+  wallet: quantum-sponsor
+  liquidity: AI Syndicate Pool v20
+  governance: DAO-hologram
+  ai_nodes: 20
+features:
+  - auto-relay (no gas fees)
+  - cross-time PR sync
+  - liquidity autospawn
+  - AI trader syndicate
+  - ownerless evolution
+status: alive
